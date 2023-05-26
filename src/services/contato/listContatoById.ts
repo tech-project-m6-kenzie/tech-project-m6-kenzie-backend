@@ -1,6 +1,6 @@
 import AppDataSource from "../../data-source"
 import Contato from "../../entities/contato.entity"
-import { Telefone } from "../../entities/telefone.entity"
+ 
 import { AppError } from "../../errors/appError";
 
 

@@ -1,7 +1,6 @@
  import AppDataSource from "../../data-source"
 import { AppError } from "../../errors/appError" 
-import {  IContatoUpdate } from "../../interfaces/contatoInterface"
-import Contato from "../../entities/contato.entity"
+ 
 import { Telefone } from "../../entities/telefone.entity"
 import { ItelefoneRequest } from "../../interfaces/telefoneInterface"
 

@@ -1,7 +1,6 @@
 import AppDataSource from "../../data-source"
 import { User } from "../../entities/user.entity"
-import { IUser, IUserRequest } from "../../interfaces/userInterfaces"
-import bcrypt from "bcrypt"
+ 
 import { AppError } from "../../errors/appError"
 import { Telefone } from "../../entities/telefone.entity"
 import { IContato, IContatoRequest } from "../../interfaces/contatoInterface"

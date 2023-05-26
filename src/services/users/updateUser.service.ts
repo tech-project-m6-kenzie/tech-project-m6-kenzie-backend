@@ -1,5 +1,5 @@
 import { hash } from "bcrypt"
-import app from "../../app"
+ 
 import AppDataSource from "../../data-source"
 import { User } from "../../entities/user.entity"
 import { AppError } from "../../errors/appError"

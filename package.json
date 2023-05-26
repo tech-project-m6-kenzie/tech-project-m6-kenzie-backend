@@ -14,6 +14,8 @@
     "@types/jest": "^28.1.4",
     "@types/node": "^18.11.2",
     "@types/supertest": "^2.0.12",
+    "@types/swagger-jsdoc": "^6.0.1",
+    "@types/swagger-ui-express": "^4.1.3",
     "@types/uuid": "^8.3.4",
     "jest": "^28.1.2",
     "sqlite3": "^5.0.8",
@@ -35,6 +37,10 @@
     "jsonwebtoken": "^8.5.1",
     "pg": "^8.8.0",
     "reflect-metadata": "^0.1.13",
+    "routing-controllers": "^0.10.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3",
+    "ts-express-decorators": "^5.65.9",
     "typeorm": "^0.3.10",
     "uuid": "^9.0.0"
   }

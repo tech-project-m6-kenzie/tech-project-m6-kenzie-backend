@@ -1,6 +1,6 @@
-import { DataSource } from "typeorm"
+ 
 import AppDataSource from "../../data-source"
-import { User } from "../../entities/user.entity"
+ 
 import { AppError } from "../../errors/appError"
 import Contato from "../../entities/contato.entity"
 import { Telefone } from "../../entities/telefone.entity"
