@@ -16,7 +16,9 @@
    
 </div></br>
 
+# Para acessar documentação da API
 
+Inicie rodando o projeto local, para acessar a documentação da API o end-point é o /api-docs/
 
 
 
