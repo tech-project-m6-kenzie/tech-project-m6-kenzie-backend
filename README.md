@@ -20,6 +20,10 @@
 
 Inicie rodando o projeto local, para acessar a documentação da API o end-point é o /api-docs/
 
+````
+yarn dev
+````
+
 
 
 ## Configurações e instalação de dependências do Projeto
