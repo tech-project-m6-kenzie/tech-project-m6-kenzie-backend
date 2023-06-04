@@ -68,4 +68,4 @@ docker compose up --build
 Caso tenha algum problema com essa porta, basta alterá-la no <strong>docker-compose.yml.</strong>
 
 <br>
- 
+ ### Para saber mais conferir o repositório do front end <a href="https://github.com/tech-project-m6-kenzie/tech-project-m6-kenzie-frontend">Clique Aqui!</a>
